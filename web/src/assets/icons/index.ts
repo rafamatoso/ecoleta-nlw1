@@ -7,6 +7,7 @@ import organicos from "./organicos.svg";
 import papeisPapelao from "./papeis-papelao.svg";
 import upload from "./upload.svg";
 import voltar from "./voltar.svg";
+import buscar from "./buscar.svg";
 
 export default {
   baterias,
@@ -18,4 +19,5 @@ export default {
   papeisPapelao,
   upload,
   voltar,
+  buscar,
 };

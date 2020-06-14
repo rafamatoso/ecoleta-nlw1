@@ -2,7 +2,8 @@
 export const titleHome: string = "Seu marketplace de coleta de resíduos";
 export const descriptionHome: string =
   "Ajudamos pessoas a encontrarem pontos de coleta de forma eficiente";
-export const buttonTxtHome: string = "Cadastre um ponto de coleta";
+export const buttonTxtAddPoint: string = "Cadastre um ponto de coleta";
+export const buttonTxtSearchPoint: string = "Procurar pontos de coleta";
 
 // Register Page
 export const title: string = `Cadastro do \n ponto de coleta`;
